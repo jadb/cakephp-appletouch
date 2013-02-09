@@ -1,0 +1,32 @@
+{
+    "name": "cakephp/apple_touch",
+    "description": "CakePHP Apple Touch Plugin",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "apple", "touch", "ios", "helper"],
+    "homepage": "https://github.com/jadb/cakephp-appletouch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jad Bitar",
+            "homepage": "http://jadb.io",
+            "role": "Author"
+        },
+        {
+            "name": "Others",
+            "homepage": "https://github.com/jadb/cakephp-appletouch/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jadb/cakephp-appletouch/issues",
+        "source": "https://github.com/jadb/cakephp-appletouch"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
