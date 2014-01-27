@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/apple_touch",
+    "name": "jadb/apple_touch",
     "description": "CakePHP Apple Touch Plugin",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "apple", "touch", "ios", "helper"],
